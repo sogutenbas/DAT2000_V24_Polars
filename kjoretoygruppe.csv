@@ -1,0 +1,62 @@
+﻿kode;tekst
+101;Personbil, unntatt ambulanse
+106;Personbil (ambulanse)
+107;Personbil (leilighetsambulanse)
+201;Buss, registrert første gang her i landet før 1.1.1983
+210;Buss, registrert for mindre enn 17 passasjerplasser
+211;Buss (klasse 1)
+212;Buss (klasse 2)
+213;Buss (klasse 3)
+214;Buss (klasse 2 og 3)
+215;Buss, under 6 meter med inntil (mindre enn) 17 sitteplasser, hvorav minst 10 seter er fastmontert i fartsretningen.
+301;Kombinert bil
+310;Varebil, registrert første gang her i landet før 1.1.1981 og varebil (klasse 1) registrert første gang her i landet 1.1.1981 eller senere og som ikke omfattes av kode 314
+311;Varebil (klasse 2), registrert første gang her i landet 1.1.1981 eller senere og som ikke omfattes av kode 315
+312;Varebil (begravelsesbil), (tidligere likbil)
+313;Varebil (campingbil). registrert før 1.1.2009
+314;Varebil (klasse 1), fortollet etter 31.3.2001
+315;Varebil (klasse 2), fortollet etter 31.3.2001
+316;Campingbil iht forskrift om engangsavgift § 2-5 som endret pr. 1. januar 2009.
+320;Lastebil (med plan), åpent plan med og uten kapell, herunder dumperkasse. registrert før 1. januar 2005.
+321;Lastebil (med lukket godsrom), herunder flyttebil, thermovogn, bankbuss m.v. registrert før 1. januar 2005.
+323;Lastebil (bergingsbil). registrert før 1. januar 2005.
+325;Lastebil, betongblandebil, renovasjonsbil, tømmertransportbil, containerbil og andre lastebiler som ikke er ført opp med egen kode. registrert før 1. januar 2005.
+330;Lastebil (tankbil), for bensin og olje. registrert før 1. januar 2005.
+335;Lastebil (tankbil), for andre varer enn bensin/olje. registrert før 1. januar 2005.
+336;Lastebil (campingbil) registrert før 1.1.2009
+340;Trekkbil
+350;Beltebil
+360;Lastebil (med plan), åpent plan med og uten kapell, herunder dumperkasse. ingen totalvektsbegrensning. også lastebil med totalvekt < 7501 kg og som ikke oppfyller krav til avgiftsgruppe b. registrert 1. januar 2005 eller senere
+361;Lastebil (med lukket godsrom), herunder flyttebil, thermovogn, bankbuss m.v. ingen totalvektsbegrensning. også lastebil med totalvekt < 7501 kg og som ikke oppfyller krav til avgiftsgruppe b. registrert 1. januar 2005 eller senere.
+363;Lastebil (bergingsbil). registrert 1. januar 2005 eller senere.
+365;Lastebil, betongblandebil, renovasjonsbil, tømmertransportbil, containerbil og andre lastebiler som ikke er ført opp med egen kode. registrert 1. januar 2005 eller senere.
+370;Lastebil (tankbil), for bensin og olje. registrert 1. januar 2005 eller senere.
+375;Lastebil (tankbil), for andre varer enn bensin/olje. registrert 1. januar 2005 eller senere.
+380;Lastebil (med plan) og totalvekt mindre enn 7501 kg, åpent plan med og uten kapell,herunder dumperkasse. oppfyller krav til avgiftsgruppe b (rammekravet).
+381;Lastebil (med lukket godsrom) og totalvekt mindre enn 7501 kg, herunder flyttebil, termovogn, bankbuss m.v. oppfyller krav til avgiftsgruppe b (rammekravet).
+401;Traktor
+501;Motorredskap (motorkran)
+502;Motorredskap (motorsprøyte)
+503;Motorredskap (motorstige)
+509;Motorredskap, annen motorredskap
+601;Moped
+610;Lett motorsykkel
+620;Tung motorsykkel, herunder mellomtung motorsykkel, og 3 og 4 hjuls motorsykkel
+621;Tung motorsykkel (chopper-ombygd)
+630;Beltemotorsykkel
+701;Påhengsvogn (med tank), ikke til traktor
+702;Påhengsvogn (til traktor)
+703;Påhengsvogn (campingtilhenger)
+709; påhengsvogn, annen påhengsvogn
+711;Slepvogn (med tank), ikke til traktor
+712;Slepvogn (til traktor)
+713;Slepvogn (campingtilhenger)
+719;Slepvogn (annen slepvogn)
+721;Semitrailer (med tank), ikke til traktor
+722;Semitrailer (til traktor)
+723;Semitrailer (campingtilhenger)
+729;Semitrailer, annen semitrailer
+801;Årsprøvekjennemerke for motorvogn
+802;Årsprøvekjennemerke for tilhenger
+803;Dagsprøvekjennemerke
+804;Årsprøvekjennemerke, annet
